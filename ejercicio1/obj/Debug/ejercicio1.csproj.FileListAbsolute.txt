@@ -1,0 +1,7 @@
+C:\Users\Nico\Documents\c#nivelDos\practicapoo\ejercicio1\ejercicio1\bin\Debug\ejercicio1.exe.config
+C:\Users\Nico\Documents\c#nivelDos\practicapoo\ejercicio1\ejercicio1\bin\Debug\ejercicio1.exe
+C:\Users\Nico\Documents\c#nivelDos\practicapoo\ejercicio1\ejercicio1\bin\Debug\ejercicio1.pdb
+C:\Users\Nico\Documents\c#nivelDos\practicapoo\ejercicio1\ejercicio1\obj\Debug\ejercicio1.csproj.AssemblyReference.cache
+C:\Users\Nico\Documents\c#nivelDos\practicapoo\ejercicio1\ejercicio1\obj\Debug\ejercicio1.csproj.CoreCompileInputs.cache
+C:\Users\Nico\Documents\c#nivelDos\practicapoo\ejercicio1\ejercicio1\obj\Debug\ejercicio1.exe
+C:\Users\Nico\Documents\c#nivelDos\practicapoo\ejercicio1\ejercicio1\obj\Debug\ejercicio1.pdb
